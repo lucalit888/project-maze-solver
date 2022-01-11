@@ -1,0 +1,1026 @@
+lucalit888, 36411, Mon Mar  9 15:52:39 2020
+
+Initial position of Avatar 0 is (3, 2)
+Avatar 0 tries to move in direction east on turn 1, which is turn 1 for the  avatar
+Initial position of Avatar 1 is (4, 6)
+Initial position of Avatar 2 is (1, 4)
+Initial position of Avatar 3 is (3, 4)
+Initial position of Avatar 4 is (1, 6)
+Initial position of Avatar 5 is (1, 2)
+Avatar 1 tries to move in direction east on turn 2, which is turn 1 for the  avatar
+Avatar 2 tries to move in direction east on turn 3, which is turn 1 for the  avatar
+Avatar 3 tries to move in direction east on turn 4, which is turn 1 for the  avatar
+Avatar 4 tries to move in direction east on turn 5, which is turn 1 for the  avatar
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 6, which is turn 1 for the  avatar
+Avatar 0 at (4,2) on turn 7
+Avatar 1 at (4,6) on turn 7
+Avatar 2 at (1,4) on turn 7
+Avatar 3 at (3,4) on turn 7
+Avatar 4 at (1,6) on turn 7
+Avatar 5 at (1,2) on turn 7
+Avatar 0 tries to move in direction north on turn 7, which is turn 2 for the  avatar
+Avatar 0 at (4,2) on turn 8
+Avatar 1 at (5,6) on turn 8
+Avatar 2 at (1,4) on turn 8
+Avatar 3 at (3,4) on turn 8
+Avatar 4 at (1,6) on turn 8
+Avatar 5 at (1,2) on turn 8
+Avatar 1 tries to move in direction north on turn 8, which is turn 2 for the  avatar
+Avatar 0 at (4,2) on turn 9
+Avatar 1 at (5,6) on turn 9
+Avatar 2 at (2,4) on turn 9
+Avatar 3 at (3,4) on turn 9
+Avatar 4 at (1,6) on turn 9
+Avatar 5 at (1,2) on turn 9
+Avatar 2 tries to move in direction north on turn 9, which is turn 2 for the  avatar
+Avatar 0 at (4,2) on turn 10
+Avatar 1 at (5,6) on turn 10
+Avatar 2 at (2,4) on turn 10
+Avatar 3 at (3,4) on turn 10
+Avatar 4 at (1,6) on turn 10
+Avatar 5 at (1,2) on turn 10
+Avatar 3 tries to move in direction south on turn 10, which is turn 2 for the  avatar
+Avatar 0 at (4,2) on turn 11
+Avatar 1 at (5,6) on turn 11
+Avatar 2 at (2,4) on turn 11
+Avatar 3 at (3,4) on turn 11
+Avatar 4 at (1,6) on turn 11
+Avatar 5 at (1,2) on turn 11
+Avatar 4 tries to move in direction south on turn 11, which is turn 2 for the  avatar
+Avatar 0 at (4,2) on turn 12
+Avatar 1 at (5,6) on turn 12
+Avatar 2 at (2,4) on turn 12
+Avatar 3 at (3,4) on turn 12
+Avatar 4 at (1,6) on turn 12
+Avatar 5 at (1,2) on turn 12
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 12, which is turn 2 for the  avatar
+Avatar 0 at (4,2) on turn 13
+Avatar 1 at (5,6) on turn 13
+Avatar 2 at (2,4) on turn 13
+Avatar 3 at (3,4) on turn 13
+Avatar 4 at (1,6) on turn 13
+Avatar 5 at (1,2) on turn 13
+Avatar 0 tries to move in direction east on turn 13, which is turn 3 for the  avatar
+Avatar 0 at (4,2) on turn 14
+Avatar 1 at (5,5) on turn 14
+Avatar 2 at (2,4) on turn 14
+Avatar 3 at (3,4) on turn 14
+Avatar 4 at (1,6) on turn 14
+Avatar 5 at (1,2) on turn 14
+Avatar 1 tries to move in direction west on turn 14, which is turn 3 for the  avatar
+Avatar 0 at (4,2) on turn 15
+Avatar 1 at (5,5) on turn 15
+Avatar 2 at (2,4) on turn 15
+Avatar 3 at (3,4) on turn 15
+Avatar 4 at (1,6) on turn 15
+Avatar 5 at (1,2) on turn 15
+Avatar 2 tries to move in direction east on turn 15, which is turn 3 for the  avatar
+Avatar 0 at (4,2) on turn 16
+Avatar 1 at (5,5) on turn 16
+Avatar 2 at (2,4) on turn 16
+Avatar 3 at (3,5) on turn 16
+Avatar 4 at (1,6) on turn 16
+Avatar 5 at (1,2) on turn 16
+Avatar 3 tries to move in direction east on turn 16, which is turn 3 for the  avatar
+Avatar 0 at (4,2) on turn 17
+Avatar 1 at (5,5) on turn 17
+Avatar 2 at (2,4) on turn 17
+Avatar 3 at (3,5) on turn 17
+Avatar 4 at (1,6) on turn 17
+Avatar 5 at (1,2) on turn 17
+Avatar 4 tries to move in direction west on turn 17, which is turn 3 for the  avatar
+Avatar 0 at (4,2) on turn 18
+Avatar 1 at (5,5) on turn 18
+Avatar 2 at (2,4) on turn 18
+Avatar 3 at (3,5) on turn 18
+Avatar 4 at (1,6) on turn 18
+Avatar 5 at (1,2) on turn 18
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 18, which is turn 3 for the  avatar
+Avatar 0 at (4,2) on turn 19
+Avatar 1 at (5,5) on turn 19
+Avatar 2 at (2,4) on turn 19
+Avatar 3 at (3,5) on turn 19
+Avatar 4 at (1,6) on turn 19
+Avatar 5 at (1,2) on turn 19
+Avatar 0 at (4,2) on turn 19
+Avatar 1 at (4,5) on turn 19
+Avatar 2 at (2,4) on turn 19
+Avatar 3 at (3,5) on turn 19
+Avatar 4 at (1,6) on turn 19
+Avatar 5 at (1,2) on turn 19
+Avatar 0 tries to move in direction south on turn 19, which is turn 4 for the  avatar
+Avatar 0 at (4,2) on turn 20
+Avatar 1 at (4,5) on turn 20
+Avatar 2 at (3,4) on turn 20
+Avatar 3 at (3,5) on turn 20
+Avatar 4 at (1,6) on turn 20
+Avatar 5 at (1,2) on turn 20
+Avatar 1 tries to move in direction south on turn 20, which is turn 4 for the  avatar
+Avatar 0 at (4,2) on turn 21
+Avatar 1 at (4,5) on turn 21
+Avatar 2 at (3,4) on turn 21
+Avatar 3 at (3,5) on turn 21
+Avatar 4 at (1,6) on turn 21
+Avatar 5 at (1,2) on turn 21
+Avatar 2 tries to move in direction north on turn 21, which is turn 4 for the  avatar
+Avatar 0 at (4,2) on turn 22
+Avatar 1 at (4,5) on turn 22
+Avatar 2 at (3,4) on turn 22
+Avatar 3 at (3,5) on turn 22
+Avatar 4 at (0,6) on turn 22
+Avatar 5 at (1,2) on turn 22
+Avatar 3 tries to move in direction south on turn 22, which is turn 4 for the  avatar
+Avatar 0 at (4,2) on turn 23
+Avatar 1 at (4,5) on turn 23
+Avatar 2 at (3,4) on turn 23
+Avatar 3 at (3,5) on turn 23
+Avatar 4 at (0,6) on turn 23
+Avatar 5 at (1,2) on turn 23
+Avatar 4 tries to move in direction south on turn 23, which is turn 4 for the  avatar
+Avatar 0 at (4,3) on turn 24
+Avatar 1 at (4,5) on turn 24
+Avatar 2 at (3,4) on turn 24
+Avatar 3 at (3,5) on turn 24
+Avatar 4 at (0,6) on turn 24
+Avatar 5 at (1,2) on turn 24
+Avatar 0 at (4,3) on turn 24
+Avatar 1 at (4,5) on turn 24
+Avatar 2 at (3,4) on turn 24
+Avatar 3 at (3,5) on turn 24
+Avatar 4 at (0,6) on turn 24
+Avatar 5 at (1,2) on turn 24
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 24, which is turn 4 for the  avatar
+Avatar 0 tries to move in direction east on turn 25, which is turn 5 for the  avatar
+Avatar 1 tries to move in direction north on turn 26, which is turn 5 for the  avatar
+Avatar 0 at (4,3) on turn 27
+Avatar 1 at (4,5) on turn 27
+Avatar 2 at (3,4) on turn 27
+Avatar 3 at (3,5) on turn 27
+Avatar 4 at (0,6) on turn 27
+Avatar 5 at (1,2) on turn 27
+Avatar 2 tries to move in direction south on turn 27, which is turn 5 for the  avatar
+Avatar 0 at (4,3) on turn 28
+Avatar 1 at (4,5) on turn 28
+Avatar 2 at (3,4) on turn 28
+Avatar 3 at (3,6) on turn 28
+Avatar 4 at (0,6) on turn 28
+Avatar 5 at (1,2) on turn 28
+Avatar 3 tries to move in direction east on turn 28, which is turn 5 for the  avatar
+Avatar 0 at (4,3) on turn 29
+Avatar 1 at (4,5) on turn 29
+Avatar 2 at (3,4) on turn 29
+Avatar 3 at (3,6) on turn 29
+Avatar 4 at (0,6) on turn 29
+Avatar 5 at (1,2) on turn 29
+Avatar 4 tries to move in direction north on turn 29, which is turn 5 for the  avatar
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 30, which is turn 5 for the  avatar
+Avatar 0 at (4,3) on turn 31
+Avatar 1 at (4,5) on turn 31
+Avatar 2 at (3,4) on turn 31
+Avatar 3 at (3,6) on turn 31
+Avatar 4 at (0,6) on turn 31
+Avatar 5 at (1,2) on turn 31
+Avatar 0 tries to move in direction south on turn 31, which is turn 6 for the  avatar
+Avatar 0 at (4,3) on turn 32
+Avatar 1 at (4,4) on turn 32
+Avatar 2 at (3,4) on turn 32
+Avatar 3 at (3,6) on turn 32
+Avatar 4 at (0,6) on turn 32
+Avatar 5 at (1,2) on turn 32
+Avatar 1 tries to move in direction east on turn 32, which is turn 6 for the  avatar
+Avatar 0 at (4,3) on turn 33
+Avatar 1 at (4,4) on turn 33
+Avatar 2 at (3,5) on turn 33
+Avatar 3 at (3,6) on turn 33
+Avatar 4 at (0,6) on turn 33
+Avatar 5 at (1,2) on turn 33
+Avatar 2 tries to move in direction south on turn 33, which is turn 6 for the  avatar
+Avatar 0 at (4,3) on turn 34
+Avatar 1 at (4,4) on turn 34
+Avatar 2 at (3,5) on turn 34
+Avatar 3 at (3,6) on turn 34
+Avatar 4 at (0,6) on turn 34
+Avatar 5 at (1,2) on turn 34
+Avatar 3 tries to move in direction south on turn 34, which is turn 6 for the  avatar
+Avatar 0 at (4,3) on turn 35
+Avatar 1 at (4,4) on turn 35
+Avatar 2 at (3,5) on turn 35
+Avatar 3 at (3,6) on turn 35
+Avatar 4 at (0,5) on turn 35
+Avatar 5 at (1,2) on turn 35
+Avatar 4 tries to move in direction north on turn 35, which is turn 6 for the  avatar
+Avatar 0 at (4,3) on turn 36
+Avatar 1 at (4,4) on turn 36
+Avatar 2 at (3,5) on turn 36
+Avatar 3 at (3,6) on turn 36
+Avatar 4 at (0,5) on turn 36
+Avatar 5 at (1,2) on turn 36
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 36, which is turn 6 for the  avatar
+Avatar 0 at (4,3) on turn 37
+Avatar 1 at (4,4) on turn 37
+Avatar 2 at (3,5) on turn 37
+Avatar 3 at (3,6) on turn 37
+Avatar 4 at (0,5) on turn 37
+Avatar 5 at (1,2) on turn 37
+Avatar 0 at (4,3) on turn 37
+Avatar 1 at (5,4) on turn 37
+Avatar 2 at (3,5) on turn 37
+Avatar 3 at (3,6) on turn 37
+Avatar 4 at (0,5) on turn 37
+Avatar 5 at (1,2) on turn 37
+Avatar 0 tries to move in direction west on turn 37, which is turn 7 for the  avatar
+Avatar 0 at (4,3) on turn 38
+Avatar 1 at (5,4) on turn 38
+Avatar 2 at (3,6) on turn 38
+Avatar 3 at (3,6) on turn 38
+Avatar 4 at (0,5) on turn 38
+Avatar 5 at (1,2) on turn 38
+Avatar 1 tries to move in direction north on turn 38, which is turn 7 for the  avatar
+Avatar 0 at (4,3) on turn 39
+Avatar 1 at (5,4) on turn 39
+Avatar 2 at (3,6) on turn 39
+Avatar 3 at (3,7) on turn 39
+Avatar 4 at (0,5) on turn 39
+Avatar 5 at (1,2) on turn 39
+Avatar 2 tries to move in direction south on turn 39, which is turn 7 for the  avatar
+Avatar 0 at (4,3) on turn 40
+Avatar 1 at (5,4) on turn 40
+Avatar 2 at (3,6) on turn 40
+Avatar 3 at (3,7) on turn 40
+Avatar 4 at (0,4) on turn 40
+Avatar 5 at (1,2) on turn 40
+Avatar 3 tries to move in direction east on turn 40, which is turn 7 for the  avatar
+Avatar 0 at (4,3) on turn 41
+Avatar 1 at (5,4) on turn 41
+Avatar 2 at (3,6) on turn 41
+Avatar 3 at (3,7) on turn 41
+Avatar 4 at (0,4) on turn 41
+Avatar 5 at (1,2) on turn 41
+Avatar 4 tries to move in direction north on turn 41, which is turn 7 for the  avatar
+Avatar 0 at (3,3) on turn 42
+Avatar 1 at (5,4) on turn 42
+Avatar 2 at (3,6) on turn 42
+Avatar 3 at (3,7) on turn 42
+Avatar 4 at (0,4) on turn 42
+Avatar 5 at (1,2) on turn 42
+Avatar 0 at (3,3) on turn 42
+Avatar 1 at (5,3) on turn 42
+Avatar 2 at (3,6) on turn 42
+Avatar 3 at (3,7) on turn 42
+Avatar 4 at (0,4) on turn 42
+Avatar 5 at (1,2) on turn 42
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 42, which is turn 7 for the  avatar
+Avatar 0 tries to move in direction west on turn 43, which is turn 8 for the  avatar
+Avatar 1 tries to move in direction north on turn 44, which is turn 8 for the  avatar
+Avatar 0 at (3,3) on turn 45
+Avatar 1 at (5,3) on turn 45
+Avatar 2 at (3,7) on turn 45
+Avatar 3 at (3,7) on turn 45
+Avatar 4 at (0,4) on turn 45
+Avatar 5 at (1,2) on turn 45
+Avatar 2 tries to move in direction east on turn 45, which is turn 8 for the  avatar
+Avatar 0 at (3,3) on turn 46
+Avatar 1 at (5,3) on turn 46
+Avatar 2 at (3,7) on turn 46
+Avatar 3 at (4,7) on turn 46
+Avatar 4 at (0,4) on turn 46
+Avatar 5 at (1,2) on turn 46
+Avatar 3 tries to move in direction north on turn 46, which is turn 8 for the  avatar
+Avatar 0 at (3,3) on turn 47
+Avatar 1 at (5,3) on turn 47
+Avatar 2 at (3,7) on turn 47
+Avatar 3 at (4,7) on turn 47
+Avatar 4 at (0,3) on turn 47
+Avatar 5 at (1,2) on turn 47
+Avatar 4 tries to move in direction north on turn 47, which is turn 8 for the  avatar
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 48, which is turn 8 for the  avatar
+Avatar 0 at (2,3) on turn 49
+Avatar 1 at (5,3) on turn 49
+Avatar 2 at (3,7) on turn 49
+Avatar 3 at (4,7) on turn 49
+Avatar 4 at (0,3) on turn 49
+Avatar 5 at (1,2) on turn 49
+Avatar 0 tries to move in direction west on turn 49, which is turn 9 for the  avatar
+Avatar 0 at (2,3) on turn 50
+Avatar 1 at (5,2) on turn 50
+Avatar 2 at (3,7) on turn 50
+Avatar 3 at (4,7) on turn 50
+Avatar 4 at (0,3) on turn 50
+Avatar 5 at (1,2) on turn 50
+Avatar 1 tries to move in direction north on turn 50, which is turn 9 for the  avatar
+Avatar 0 at (2,3) on turn 51
+Avatar 1 at (5,2) on turn 51
+Avatar 2 at (4,7) on turn 51
+Avatar 3 at (4,7) on turn 51
+Avatar 4 at (0,3) on turn 51
+Avatar 5 at (1,2) on turn 51
+Avatar 2 tries to move in direction north on turn 51, which is turn 9 for the  avatar
+Avatar 0 at (2,3) on turn 52
+Avatar 1 at (5,2) on turn 52
+Avatar 2 at (4,7) on turn 52
+Avatar 3 at (4,6) on turn 52
+Avatar 4 at (0,3) on turn 52
+Avatar 5 at (1,2) on turn 52
+Avatar 3 tries to move in direction east on turn 52, which is turn 9 for the  avatar
+Avatar 0 at (2,3) on turn 53
+Avatar 1 at (5,2) on turn 53
+Avatar 2 at (4,7) on turn 53
+Avatar 3 at (4,6) on turn 53
+Avatar 4 at (0,2) on turn 53
+Avatar 5 at (1,2) on turn 53
+Avatar 4 tries to move in direction north on turn 53, which is turn 9 for the  avatar
+Avatar 0 at (2,3) on turn 54
+Avatar 1 at (5,2) on turn 54
+Avatar 2 at (4,7) on turn 54
+Avatar 3 at (4,6) on turn 54
+Avatar 4 at (0,2) on turn 54
+Avatar 5 at (1,2) on turn 54
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 54, which is turn 9 for the  avatar
+Avatar 0 at (2,3) on turn 55
+Avatar 1 at (5,2) on turn 55
+Avatar 2 at (4,7) on turn 55
+Avatar 3 at (4,6) on turn 55
+Avatar 4 at (0,2) on turn 55
+Avatar 5 at (1,2) on turn 55
+Avatar 0 at (2,3) on turn 55
+Avatar 1 at (5,1) on turn 55
+Avatar 2 at (4,7) on turn 55
+Avatar 3 at (4,6) on turn 55
+Avatar 4 at (0,2) on turn 55
+Avatar 5 at (1,2) on turn 55
+Avatar 0 tries to move in direction north on turn 55, which is turn 10 for the  avatar
+Avatar 0 at (2,3) on turn 56
+Avatar 1 at (5,1) on turn 56
+Avatar 2 at (4,6) on turn 56
+Avatar 3 at (4,6) on turn 56
+Avatar 4 at (0,2) on turn 56
+Avatar 5 at (1,2) on turn 56
+Avatar 1 tries to move in direction west on turn 56, which is turn 10 for the  avatar
+Avatar 0 at (2,3) on turn 57
+Avatar 1 at (5,1) on turn 57
+Avatar 2 at (4,6) on turn 57
+Avatar 3 at (5,6) on turn 57
+Avatar 4 at (0,2) on turn 57
+Avatar 5 at (1,2) on turn 57
+Avatar 2 tries to move in direction east on turn 57, which is turn 10 for the  avatar
+Avatar 0 at (2,3) on turn 58
+Avatar 1 at (5,1) on turn 58
+Avatar 2 at (4,6) on turn 58
+Avatar 3 at (5,6) on turn 58
+Avatar 4 at (0,1) on turn 58
+Avatar 5 at (1,2) on turn 58
+Avatar 3 tries to move in direction north on turn 58, which is turn 10 for the  avatar
+Avatar 0 at (2,3) on turn 59
+Avatar 1 at (5,1) on turn 59
+Avatar 2 at (4,6) on turn 59
+Avatar 3 at (5,6) on turn 59
+Avatar 4 at (0,1) on turn 59
+Avatar 5 at (1,2) on turn 59
+Avatar 4 tries to move in direction north on turn 59, which is turn 10 for the  avatar
+Avatar 0 at (2,2) on turn 60
+Avatar 1 at (5,1) on turn 60
+Avatar 2 at (4,6) on turn 60
+Avatar 3 at (5,6) on turn 60
+Avatar 4 at (0,1) on turn 60
+Avatar 5 at (1,2) on turn 60
+Avatar 0 at (2,2) on turn 60
+Avatar 1 at (5,1) on turn 60
+Avatar 2 at (4,6) on turn 60
+Avatar 3 at (5,6) on turn 60
+Avatar 4 at (0,1) on turn 60
+Avatar 5 at (1,2) on turn 60
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 60, which is turn 10 for the  avatar
+Avatar 0 tries to move in direction west on turn 61, which is turn 11 for the  avatar
+Avatar 1 tries to move in direction north on turn 62, which is turn 11 for the  avatar
+Avatar 0 at (2,2) on turn 63
+Avatar 1 at (5,1) on turn 63
+Avatar 2 at (5,6) on turn 63
+Avatar 3 at (5,6) on turn 63
+Avatar 4 at (0,1) on turn 63
+Avatar 5 at (1,2) on turn 63
+Avatar 2 tries to move in direction north on turn 63, which is turn 11 for the  avatar
+Avatar 0 at (2,2) on turn 64
+Avatar 1 at (5,1) on turn 64
+Avatar 2 at (5,6) on turn 64
+Avatar 3 at (5,5) on turn 64
+Avatar 4 at (0,1) on turn 64
+Avatar 5 at (1,2) on turn 64
+Avatar 3 tries to move in direction west on turn 64, which is turn 11 for the  avatar
+Avatar 0 at (2,2) on turn 65
+Avatar 1 at (5,1) on turn 65
+Avatar 2 at (5,6) on turn 65
+Avatar 3 at (5,5) on turn 65
+Avatar 4 at (0,0) on turn 65
+Avatar 5 at (1,2) on turn 65
+Avatar 4 tries to move in direction east on turn 65, which is turn 11 for the  avatar
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 66, which is turn 11 for the  avatar
+Avatar 0 at (1,2) on turn 67
+Avatar 1 at (5,1) on turn 67
+Avatar 2 at (5,6) on turn 67
+Avatar 3 at (5,5) on turn 67
+Avatar 4 at (0,0) on turn 67
+Avatar 5 at (1,2) on turn 67
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 67, which is turn 12 for the  avatar
+Avatar 0 at (1,2) on turn 68
+Avatar 1 at (5,0) on turn 68
+Avatar 2 at (5,6) on turn 68
+Avatar 3 at (5,5) on turn 68
+Avatar 4 at (0,0) on turn 68
+Avatar 5 at (1,2) on turn 68
+Avatar 1 tries to move in direction west on turn 68, which is turn 12 for the  avatar
+Avatar 0 at (1,2) on turn 69
+Avatar 1 at (5,0) on turn 69
+Avatar 2 at (5,5) on turn 69
+Avatar 3 at (5,5) on turn 69
+Avatar 4 at (0,0) on turn 69
+Avatar 5 at (1,2) on turn 69
+Avatar 2 tries to move in direction west on turn 69, which is turn 12 for the  avatar
+Avatar 0 at (1,2) on turn 70
+Avatar 1 at (5,0) on turn 70
+Avatar 2 at (5,5) on turn 70
+Avatar 3 at (4,5) on turn 70
+Avatar 4 at (0,0) on turn 70
+Avatar 5 at (1,2) on turn 70
+Avatar 3 tries to move in direction north on turn 70, which is turn 12 for the  avatar
+Avatar 0 at (1,2) on turn 71
+Avatar 1 at (5,0) on turn 71
+Avatar 2 at (5,5) on turn 71
+Avatar 3 at (4,5) on turn 71
+Avatar 4 at (0,0) on turn 71
+Avatar 5 at (1,2) on turn 71
+Avatar 4 tries to move in direction south on turn 71, which is turn 12 for the  avatar
+Avatar 0 at (1,2) on turn 72
+Avatar 1 at (5,0) on turn 72
+Avatar 2 at (5,5) on turn 72
+Avatar 3 at (4,5) on turn 72
+Avatar 4 at (0,0) on turn 72
+Avatar 5 at (1,2) on turn 72
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 72, which is turn 12 for the  avatar
+Avatar 0 at (1,2) on turn 73
+Avatar 1 at (5,0) on turn 73
+Avatar 2 at (5,5) on turn 73
+Avatar 3 at (4,5) on turn 73
+Avatar 4 at (0,0) on turn 73
+Avatar 5 at (1,2) on turn 73
+Avatar 0 at (1,2) on turn 73
+Avatar 1 at (4,0) on turn 73
+Avatar 2 at (5,5) on turn 73
+Avatar 3 at (4,5) on turn 73
+Avatar 4 at (0,0) on turn 73
+Avatar 5 at (1,2) on turn 73
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 73, which is turn 13 for the  avatar
+Avatar 0 at (1,2) on turn 74
+Avatar 1 at (4,0) on turn 74
+Avatar 2 at (4,5) on turn 74
+Avatar 3 at (4,5) on turn 74
+Avatar 4 at (0,0) on turn 74
+Avatar 5 at (1,2) on turn 74
+Avatar 1 tries to move in direction south on turn 74, which is turn 13 for the  avatar
+Avatar 0 at (1,2) on turn 75
+Avatar 1 at (4,0) on turn 75
+Avatar 2 at (4,5) on turn 75
+Avatar 3 at (4,4) on turn 75
+Avatar 4 at (0,0) on turn 75
+Avatar 5 at (1,2) on turn 75
+Avatar 2 tries to move in direction north on turn 75, which is turn 13 for the  avatar
+Avatar 0 at (1,2) on turn 76
+Avatar 1 at (4,0) on turn 76
+Avatar 2 at (4,5) on turn 76
+Avatar 3 at (4,4) on turn 76
+Avatar 4 at (0,1) on turn 76
+Avatar 5 at (1,2) on turn 76
+Avatar 3 tries to move in direction east on turn 76, which is turn 13 for the  avatar
+Avatar 0 at (1,2) on turn 77
+Avatar 1 at (4,0) on turn 77
+Avatar 2 at (4,5) on turn 77
+Avatar 3 at (4,4) on turn 77
+Avatar 4 at (0,1) on turn 77
+Avatar 5 at (1,2) on turn 77
+Avatar 4 tries to move in direction east on turn 77, which is turn 13 for the  avatar
+Avatar 0 at (1,2) on turn 78
+Avatar 1 at (4,0) on turn 78
+Avatar 2 at (4,5) on turn 78
+Avatar 3 at (4,4) on turn 78
+Avatar 4 at (0,1) on turn 78
+Avatar 5 at (1,2) on turn 78
+Avatar 0 at (1,2) on turn 78
+Avatar 1 at (4,1) on turn 78
+Avatar 2 at (4,5) on turn 78
+Avatar 3 at (4,4) on turn 78
+Avatar 4 at (0,1) on turn 78
+Avatar 5 at (1,2) on turn 78
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 78, which is turn 13 for the  avatar
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 79, which is turn 14 for the  avatar
+Avatar 1 tries to move in direction west on turn 80, which is turn 14 for the  avatar
+Avatar 0 at (1,2) on turn 81
+Avatar 1 at (4,1) on turn 81
+Avatar 2 at (4,4) on turn 81
+Avatar 3 at (4,4) on turn 81
+Avatar 4 at (0,1) on turn 81
+Avatar 5 at (1,2) on turn 81
+Avatar 2 tries to move in direction east on turn 81, which is turn 14 for the  avatar
+Avatar 0 at (1,2) on turn 82
+Avatar 1 at (4,1) on turn 82
+Avatar 2 at (4,4) on turn 82
+Avatar 3 at (5,4) on turn 82
+Avatar 4 at (0,1) on turn 82
+Avatar 5 at (1,2) on turn 82
+Avatar 3 tries to move in direction north on turn 82, which is turn 14 for the  avatar
+Avatar 0 at (1,2) on turn 83
+Avatar 1 at (4,1) on turn 83
+Avatar 2 at (4,4) on turn 83
+Avatar 3 at (5,4) on turn 83
+Avatar 4 at (0,1) on turn 83
+Avatar 5 at (1,2) on turn 83
+Avatar 4 tries to move in direction south on turn 83, which is turn 14 for the  avatar
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 84, which is turn 14 for the  avatar
+Avatar 0 at (1,2) on turn 85
+Avatar 1 at (4,1) on turn 85
+Avatar 2 at (4,4) on turn 85
+Avatar 3 at (5,4) on turn 85
+Avatar 4 at (0,1) on turn 85
+Avatar 5 at (1,2) on turn 85
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 85, which is turn 15 for the  avatar
+Avatar 0 at (1,2) on turn 86
+Avatar 1 at (3,1) on turn 86
+Avatar 2 at (4,4) on turn 86
+Avatar 3 at (5,4) on turn 86
+Avatar 4 at (0,1) on turn 86
+Avatar 5 at (1,2) on turn 86
+Avatar 1 tries to move in direction south on turn 86, which is turn 15 for the  avatar
+Avatar 0 at (1,2) on turn 87
+Avatar 1 at (3,1) on turn 87
+Avatar 2 at (5,4) on turn 87
+Avatar 3 at (5,4) on turn 87
+Avatar 4 at (0,1) on turn 87
+Avatar 5 at (1,2) on turn 87
+Avatar 2 tries to move in direction north on turn 87, which is turn 15 for the  avatar
+Avatar 0 at (1,2) on turn 88
+Avatar 1 at (3,1) on turn 88
+Avatar 2 at (5,4) on turn 88
+Avatar 3 at (5,3) on turn 88
+Avatar 4 at (0,1) on turn 88
+Avatar 5 at (1,2) on turn 88
+Avatar 3 tries to move in direction north on turn 88, which is turn 15 for the  avatar
+Avatar 0 at (1,2) on turn 89
+Avatar 1 at (3,1) on turn 89
+Avatar 2 at (5,4) on turn 89
+Avatar 3 at (5,3) on turn 89
+Avatar 4 at (0,2) on turn 89
+Avatar 5 at (1,2) on turn 89
+Avatar 4 tries to move in direction east on turn 89, which is turn 15 for the  avatar
+Avatar 0 at (1,2) on turn 90
+Avatar 1 at (3,1) on turn 90
+Avatar 2 at (5,4) on turn 90
+Avatar 3 at (5,3) on turn 90
+Avatar 4 at (0,2) on turn 90
+Avatar 5 at (1,2) on turn 90
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 90, which is turn 15 for the  avatar
+Avatar 0 at (1,2) on turn 91
+Avatar 1 at (3,1) on turn 91
+Avatar 2 at (5,4) on turn 91
+Avatar 3 at (5,3) on turn 91
+Avatar 4 at (0,2) on turn 91
+Avatar 5 at (1,2) on turn 91
+Avatar 0 at (1,2) on turn 91
+Avatar 1 at (3,1) on turn 91
+Avatar 2 at (5,4) on turn 91
+Avatar 3 at (5,3) on turn 91
+Avatar 4 at (0,2) on turn 91
+Avatar 5 at (1,2) on turn 91
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 91, which is turn 16 for the  avatar
+Avatar 0 at (1,2) on turn 92
+Avatar 1 at (3,1) on turn 92
+Avatar 2 at (5,3) on turn 92
+Avatar 3 at (5,3) on turn 92
+Avatar 4 at (0,2) on turn 92
+Avatar 5 at (1,2) on turn 92
+Avatar 1 tries to move in direction west on turn 92, which is turn 16 for the  avatar
+Avatar 0 at (1,2) on turn 93
+Avatar 1 at (3,1) on turn 93
+Avatar 2 at (5,3) on turn 93
+Avatar 3 at (5,2) on turn 93
+Avatar 4 at (0,2) on turn 93
+Avatar 5 at (1,2) on turn 93
+Avatar 2 tries to move in direction north on turn 93, which is turn 16 for the  avatar
+Avatar 0 at (1,2) on turn 94
+Avatar 1 at (3,1) on turn 94
+Avatar 2 at (5,3) on turn 94
+Avatar 3 at (5,2) on turn 94
+Avatar 4 at (1,2) on turn 94
+Avatar 5 at (1,2) on turn 94
+Avatar 3 tries to move in direction north on turn 94, which is turn 16 for the  avatar
+Avatar 0 at (1,2) on turn 95
+Avatar 1 at (3,1) on turn 95
+Avatar 2 at (5,3) on turn 95
+Avatar 3 at (5,2) on turn 95
+Avatar 4 at (1,2) on turn 95
+Avatar 5 at (1,2) on turn 95
+Avatar 4 tries to move in direction no direction (NULL_MOVE) on turn 95, which is turn 16 for the  avatar
+Avatar 0 at (1,2) on turn 96
+Avatar 1 at (3,1) on turn 96
+Avatar 2 at (5,3) on turn 96
+Avatar 3 at (5,2) on turn 96
+Avatar 4 at (1,2) on turn 96
+Avatar 5 at (1,2) on turn 96
+Avatar 0 at (1,2) on turn 96
+Avatar 1 at (2,1) on turn 96
+Avatar 2 at (5,3) on turn 96
+Avatar 3 at (5,2) on turn 96
+Avatar 4 at (1,2) on turn 96
+Avatar 5 at (1,2) on turn 96
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 96, which is turn 16 for the  avatar
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 97, which is turn 17 for the  avatar
+Avatar 1 tries to move in direction south on turn 98, which is turn 17 for the  avatar
+Avatar 0 at (1,2) on turn 99
+Avatar 1 at (2,1) on turn 99
+Avatar 2 at (5,2) on turn 99
+Avatar 3 at (5,2) on turn 99
+Avatar 4 at (1,2) on turn 99
+Avatar 5 at (1,2) on turn 99
+Avatar 2 tries to move in direction north on turn 99, which is turn 17 for the  avatar
+Avatar 0 at (1,2) on turn 100
+Avatar 1 at (2,1) on turn 100
+Avatar 2 at (5,2) on turn 100
+Avatar 3 at (5,1) on turn 100
+Avatar 4 at (1,2) on turn 100
+Avatar 5 at (1,2) on turn 100
+Avatar 3 tries to move in direction north on turn 100, which is turn 17 for the  avatar
+Avatar 0 at (1,2) on turn 101
+Avatar 1 at (2,1) on turn 101
+Avatar 2 at (5,2) on turn 101
+Avatar 3 at (5,1) on turn 101
+Avatar 4 at (1,2) on turn 101
+Avatar 5 at (1,2) on turn 101
+Avatar 4 tries to move in direction no direction (NULL_MOVE) on turn 101, which is turn 17 for the  avatar
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 102, which is turn 17 for the  avatar
+Avatar 0 at (1,2) on turn 103
+Avatar 1 at (2,1) on turn 103
+Avatar 2 at (5,2) on turn 103
+Avatar 3 at (5,1) on turn 103
+Avatar 4 at (1,2) on turn 103
+Avatar 5 at (1,2) on turn 103
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 103, which is turn 18 for the  avatar
+Avatar 0 at (1,2) on turn 104
+Avatar 1 at (2,1) on turn 104
+Avatar 2 at (5,2) on turn 104
+Avatar 3 at (5,1) on turn 104
+Avatar 4 at (1,2) on turn 104
+Avatar 5 at (1,2) on turn 104
+Avatar 1 tries to move in direction west on turn 104, which is turn 18 for the  avatar
+Avatar 0 at (1,2) on turn 105
+Avatar 1 at (2,1) on turn 105
+Avatar 2 at (5,1) on turn 105
+Avatar 3 at (5,1) on turn 105
+Avatar 4 at (1,2) on turn 105
+Avatar 5 at (1,2) on turn 105
+Avatar 2 tries to move in direction north on turn 105, which is turn 18 for the  avatar
+Avatar 0 at (1,2) on turn 106
+Avatar 1 at (2,1) on turn 106
+Avatar 2 at (5,1) on turn 106
+Avatar 3 at (5,0) on turn 106
+Avatar 4 at (1,2) on turn 106
+Avatar 5 at (1,2) on turn 106
+Avatar 3 tries to move in direction west on turn 106, which is turn 18 for the  avatar
+Avatar 0 at (1,2) on turn 107
+Avatar 1 at (2,1) on turn 107
+Avatar 2 at (5,1) on turn 107
+Avatar 3 at (5,0) on turn 107
+Avatar 4 at (1,2) on turn 107
+Avatar 5 at (1,2) on turn 107
+Avatar 4 tries to move in direction no direction (NULL_MOVE) on turn 107, which is turn 18 for the  avatar
+Avatar 0 at (1,2) on turn 108
+Avatar 1 at (2,1) on turn 108
+Avatar 2 at (5,1) on turn 108
+Avatar 3 at (5,0) on turn 108
+Avatar 4 at (1,2) on turn 108
+Avatar 5 at (1,2) on turn 108
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 108, which is turn 18 for the  avatar
+Avatar 0 at (1,2) on turn 109
+Avatar 1 at (2,1) on turn 109
+Avatar 2 at (5,1) on turn 109
+Avatar 3 at (5,0) on turn 109
+Avatar 4 at (1,2) on turn 109
+Avatar 5 at (1,2) on turn 109
+Avatar 0 at (1,2) on turn 109
+Avatar 1 at (2,1) on turn 109
+Avatar 2 at (5,1) on turn 109
+Avatar 3 at (5,0) on turn 109
+Avatar 4 at (1,2) on turn 109
+Avatar 5 at (1,2) on turn 109
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 109, which is turn 19 for the  avatar
+Avatar 0 at (1,2) on turn 110
+Avatar 1 at (2,1) on turn 110
+Avatar 2 at (5,0) on turn 110
+Avatar 3 at (5,0) on turn 110
+Avatar 4 at (1,2) on turn 110
+Avatar 5 at (1,2) on turn 110
+Avatar 1 tries to move in direction north on turn 110, which is turn 19 for the  avatar
+Avatar 0 at (1,2) on turn 111
+Avatar 1 at (2,1) on turn 111
+Avatar 2 at (5,0) on turn 111
+Avatar 3 at (4,0) on turn 111
+Avatar 4 at (1,2) on turn 111
+Avatar 5 at (1,2) on turn 111
+Avatar 2 tries to move in direction west on turn 111, which is turn 19 for the  avatar
+Avatar 0 at (1,2) on turn 112
+Avatar 1 at (2,1) on turn 112
+Avatar 2 at (5,0) on turn 112
+Avatar 3 at (4,0) on turn 112
+Avatar 4 at (1,2) on turn 112
+Avatar 5 at (1,2) on turn 112
+Avatar 3 tries to move in direction south on turn 112, which is turn 19 for the  avatar
+Avatar 0 at (1,2) on turn 113
+Avatar 1 at (2,1) on turn 113
+Avatar 2 at (5,0) on turn 113
+Avatar 3 at (4,0) on turn 113
+Avatar 4 at (1,2) on turn 113
+Avatar 5 at (1,2) on turn 113
+Avatar 4 tries to move in direction no direction (NULL_MOVE) on turn 113, which is turn 19 for the  avatar
+Avatar 0 at (1,2) on turn 114
+Avatar 1 at (2,1) on turn 114
+Avatar 2 at (5,0) on turn 114
+Avatar 3 at (4,0) on turn 114
+Avatar 4 at (1,2) on turn 114
+Avatar 5 at (1,2) on turn 114
+Avatar 0 at (1,2) on turn 114
+Avatar 1 at (2,0) on turn 114
+Avatar 2 at (5,0) on turn 114
+Avatar 3 at (4,0) on turn 114
+Avatar 4 at (1,2) on turn 114
+Avatar 5 at (1,2) on turn 114
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 114, which is turn 19 for the  avatar
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 115, which is turn 20 for the  avatar
+Avatar 1 tries to move in direction west on turn 116, which is turn 20 for the  avatar
+Avatar 0 at (1,2) on turn 117
+Avatar 1 at (2,0) on turn 117
+Avatar 2 at (4,0) on turn 117
+Avatar 3 at (4,0) on turn 117
+Avatar 4 at (1,2) on turn 117
+Avatar 5 at (1,2) on turn 117
+Avatar 2 tries to move in direction south on turn 117, which is turn 20 for the  avatar
+Avatar 0 at (1,2) on turn 118
+Avatar 1 at (2,0) on turn 118
+Avatar 2 at (4,0) on turn 118
+Avatar 3 at (4,1) on turn 118
+Avatar 4 at (1,2) on turn 118
+Avatar 5 at (1,2) on turn 118
+Avatar 3 tries to move in direction west on turn 118, which is turn 20 for the  avatar
+Avatar 0 at (1,2) on turn 119
+Avatar 1 at (2,0) on turn 119
+Avatar 2 at (4,0) on turn 119
+Avatar 3 at (4,1) on turn 119
+Avatar 4 at (1,2) on turn 119
+Avatar 5 at (1,2) on turn 119
+Avatar 4 tries to move in direction no direction (NULL_MOVE) on turn 119, which is turn 20 for the  avatar
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 120, which is turn 20 for the  avatar
+Avatar 0 at (1,2) on turn 121
+Avatar 1 at (2,0) on turn 121
+Avatar 2 at (4,0) on turn 121
+Avatar 3 at (4,1) on turn 121
+Avatar 4 at (1,2) on turn 121
+Avatar 5 at (1,2) on turn 121
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 121, which is turn 21 for the  avatar
+Avatar 0 at (1,2) on turn 122
+Avatar 1 at (1,0) on turn 122
+Avatar 2 at (4,0) on turn 122
+Avatar 3 at (4,1) on turn 122
+Avatar 4 at (1,2) on turn 122
+Avatar 5 at (1,2) on turn 122
+Avatar 1 tries to move in direction south on turn 122, which is turn 21 for the  avatar
+Avatar 0 at (1,2) on turn 123
+Avatar 1 at (1,0) on turn 123
+Avatar 2 at (4,1) on turn 123
+Avatar 3 at (4,1) on turn 123
+Avatar 4 at (1,2) on turn 123
+Avatar 5 at (1,2) on turn 123
+Avatar 2 tries to move in direction west on turn 123, which is turn 21 for the  avatar
+Avatar 0 at (1,2) on turn 124
+Avatar 1 at (1,0) on turn 124
+Avatar 2 at (4,1) on turn 124
+Avatar 3 at (3,1) on turn 124
+Avatar 4 at (1,2) on turn 124
+Avatar 5 at (1,2) on turn 124
+Avatar 3 tries to move in direction west on turn 124, which is turn 21 for the  avatar
+Avatar 0 at (1,2) on turn 125
+Avatar 1 at (1,0) on turn 125
+Avatar 2 at (4,1) on turn 125
+Avatar 3 at (3,1) on turn 125
+Avatar 4 at (1,2) on turn 125
+Avatar 5 at (1,2) on turn 125
+Avatar 4 tries to move in direction no direction (NULL_MOVE) on turn 125, which is turn 21 for the  avatar
+Avatar 0 at (1,2) on turn 126
+Avatar 1 at (1,0) on turn 126
+Avatar 2 at (4,1) on turn 126
+Avatar 3 at (3,1) on turn 126
+Avatar 4 at (1,2) on turn 126
+Avatar 5 at (1,2) on turn 126
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 126, which is turn 21 for the  avatar
+Avatar 0 at (1,2) on turn 127
+Avatar 1 at (1,0) on turn 127
+Avatar 2 at (4,1) on turn 127
+Avatar 3 at (3,1) on turn 127
+Avatar 4 at (1,2) on turn 127
+Avatar 5 at (1,2) on turn 127
+Avatar 0 at (1,2) on turn 127
+Avatar 1 at (1,1) on turn 127
+Avatar 2 at (4,1) on turn 127
+Avatar 3 at (3,1) on turn 127
+Avatar 4 at (1,2) on turn 127
+Avatar 5 at (1,2) on turn 127
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 127, which is turn 22 for the  avatar
+Avatar 0 at (1,2) on turn 128
+Avatar 1 at (1,1) on turn 128
+Avatar 2 at (3,1) on turn 128
+Avatar 3 at (3,1) on turn 128
+Avatar 4 at (1,2) on turn 128
+Avatar 5 at (1,2) on turn 128
+Avatar 1 tries to move in direction south on turn 128, which is turn 22 for the  avatar
+Avatar 0 at (1,2) on turn 129
+Avatar 1 at (1,1) on turn 129
+Avatar 2 at (3,1) on turn 129
+Avatar 3 at (2,1) on turn 129
+Avatar 4 at (1,2) on turn 129
+Avatar 5 at (1,2) on turn 129
+Avatar 2 tries to move in direction west on turn 129, which is turn 22 for the  avatar
+Avatar 0 at (1,2) on turn 130
+Avatar 1 at (1,1) on turn 130
+Avatar 2 at (3,1) on turn 130
+Avatar 3 at (2,1) on turn 130
+Avatar 4 at (1,2) on turn 130
+Avatar 5 at (1,2) on turn 130
+Avatar 3 tries to move in direction north on turn 130, which is turn 22 for the  avatar
+Avatar 0 at (1,2) on turn 131
+Avatar 1 at (1,1) on turn 131
+Avatar 2 at (3,1) on turn 131
+Avatar 3 at (2,1) on turn 131
+Avatar 4 at (1,2) on turn 131
+Avatar 5 at (1,2) on turn 131
+Avatar 4 tries to move in direction no direction (NULL_MOVE) on turn 131, which is turn 22 for the  avatar
+Avatar 0 at (1,2) on turn 132
+Avatar 1 at (1,1) on turn 132
+Avatar 2 at (3,1) on turn 132
+Avatar 3 at (2,1) on turn 132
+Avatar 4 at (1,2) on turn 132
+Avatar 5 at (1,2) on turn 132
+Avatar 0 at (1,2) on turn 132
+Avatar 1 at (1,2) on turn 132
+Avatar 2 at (3,1) on turn 132
+Avatar 3 at (2,1) on turn 132
+Avatar 4 at (1,2) on turn 132
+Avatar 5 at (1,2) on turn 132
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 132, which is turn 22 for the  avatar
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 133, which is turn 23 for the  avatar
+Avatar 1 tries to move in direction no direction (NULL_MOVE) on turn 134, which is turn 23 for the  avatar
+Avatar 0 at (1,2) on turn 135
+Avatar 1 at (1,2) on turn 135
+Avatar 2 at (2,1) on turn 135
+Avatar 3 at (2,1) on turn 135
+Avatar 4 at (1,2) on turn 135
+Avatar 5 at (1,2) on turn 135
+Avatar 2 tries to move in direction north on turn 135, which is turn 23 for the  avatar
+Avatar 0 at (1,2) on turn 136
+Avatar 1 at (1,2) on turn 136
+Avatar 2 at (2,1) on turn 136
+Avatar 3 at (2,0) on turn 136
+Avatar 4 at (1,2) on turn 136
+Avatar 5 at (1,2) on turn 136
+Avatar 3 tries to move in direction west on turn 136, which is turn 23 for the  avatar
+Avatar 0 at (1,2) on turn 137
+Avatar 1 at (1,2) on turn 137
+Avatar 2 at (2,1) on turn 137
+Avatar 3 at (2,0) on turn 137
+Avatar 4 at (1,2) on turn 137
+Avatar 5 at (1,2) on turn 137
+Avatar 4 tries to move in direction no direction (NULL_MOVE) on turn 137, which is turn 23 for the  avatar
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 138, which is turn 23 for the  avatar
+Avatar 0 at (1,2) on turn 139
+Avatar 1 at (1,2) on turn 139
+Avatar 2 at (2,1) on turn 139
+Avatar 3 at (2,0) on turn 139
+Avatar 4 at (1,2) on turn 139
+Avatar 5 at (1,2) on turn 139
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 139, which is turn 24 for the  avatar
+Avatar 0 at (1,2) on turn 140
+Avatar 1 at (1,2) on turn 140
+Avatar 2 at (2,1) on turn 140
+Avatar 3 at (2,0) on turn 140
+Avatar 4 at (1,2) on turn 140
+Avatar 5 at (1,2) on turn 140
+Avatar 1 tries to move in direction no direction (NULL_MOVE) on turn 140, which is turn 24 for the  avatar
+Avatar 0 at (1,2) on turn 141
+Avatar 1 at (1,2) on turn 141
+Avatar 2 at (2,0) on turn 141
+Avatar 3 at (2,0) on turn 141
+Avatar 4 at (1,2) on turn 141
+Avatar 5 at (1,2) on turn 141
+Avatar 2 tries to move in direction west on turn 141, which is turn 24 for the  avatar
+Avatar 0 at (1,2) on turn 142
+Avatar 1 at (1,2) on turn 142
+Avatar 2 at (2,0) on turn 142
+Avatar 3 at (1,0) on turn 142
+Avatar 4 at (1,2) on turn 142
+Avatar 5 at (1,2) on turn 142
+Avatar 3 tries to move in direction south on turn 142, which is turn 24 for the  avatar
+Avatar 0 at (1,2) on turn 143
+Avatar 1 at (1,2) on turn 143
+Avatar 2 at (2,0) on turn 143
+Avatar 3 at (1,0) on turn 143
+Avatar 4 at (1,2) on turn 143
+Avatar 5 at (1,2) on turn 143
+Avatar 4 tries to move in direction no direction (NULL_MOVE) on turn 143, which is turn 24 for the  avatar
+Avatar 0 at (1,2) on turn 144
+Avatar 1 at (1,2) on turn 144
+Avatar 2 at (2,0) on turn 144
+Avatar 3 at (1,0) on turn 144
+Avatar 4 at (1,2) on turn 144
+Avatar 5 at (1,2) on turn 144
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 144, which is turn 24 for the  avatar
+Avatar 0 at (1,2) on turn 145
+Avatar 1 at (1,2) on turn 145
+Avatar 2 at (2,0) on turn 145
+Avatar 3 at (1,0) on turn 145
+Avatar 4 at (1,2) on turn 145
+Avatar 5 at (1,2) on turn 145
+Avatar 0 at (1,2) on turn 145
+Avatar 1 at (1,2) on turn 145
+Avatar 2 at (2,0) on turn 145
+Avatar 3 at (1,0) on turn 145
+Avatar 4 at (1,2) on turn 145
+Avatar 5 at (1,2) on turn 145
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 145, which is turn 25 for the  avatar
+Avatar 0 at (1,2) on turn 146
+Avatar 1 at (1,2) on turn 146
+Avatar 2 at (1,0) on turn 146
+Avatar 3 at (1,0) on turn 146
+Avatar 4 at (1,2) on turn 146
+Avatar 5 at (1,2) on turn 146
+Avatar 1 tries to move in direction no direction (NULL_MOVE) on turn 146, which is turn 25 for the  avatar
+Avatar 0 at (1,2) on turn 147
+Avatar 1 at (1,2) on turn 147
+Avatar 2 at (1,0) on turn 147
+Avatar 3 at (1,1) on turn 147
+Avatar 4 at (1,2) on turn 147
+Avatar 5 at (1,2) on turn 147
+Avatar 2 tries to move in direction south on turn 147, which is turn 25 for the  avatar
+Avatar 0 at (1,2) on turn 148
+Avatar 1 at (1,2) on turn 148
+Avatar 2 at (1,0) on turn 148
+Avatar 3 at (1,1) on turn 148
+Avatar 4 at (1,2) on turn 148
+Avatar 5 at (1,2) on turn 148
+Avatar 3 tries to move in direction south on turn 148, which is turn 25 for the  avatar
+Avatar 0 at (1,2) on turn 149
+Avatar 1 at (1,2) on turn 149
+Avatar 2 at (1,0) on turn 149
+Avatar 3 at (1,1) on turn 149
+Avatar 4 at (1,2) on turn 149
+Avatar 5 at (1,2) on turn 149
+Avatar 4 tries to move in direction no direction (NULL_MOVE) on turn 149, which is turn 25 for the  avatar
+Avatar 0 at (1,2) on turn 150
+Avatar 1 at (1,2) on turn 150
+Avatar 2 at (1,0) on turn 150
+Avatar 3 at (1,1) on turn 150
+Avatar 4 at (1,2) on turn 150
+Avatar 5 at (1,2) on turn 150
+Avatar 0 at (1,2) on turn 150
+Avatar 1 at (1,2) on turn 150
+Avatar 2 at (1,0) on turn 150
+Avatar 3 at (1,1) on turn 150
+Avatar 4 at (1,2) on turn 150
+Avatar 5 at (1,2) on turn 150
+Avatar 5 tries to move in direction no direction (NULL_MOVE) on turn 150, which is turn 25 for the  avatar
+Avatar 0 tries to move in direction no direction (NULL_MOVE) on turn 151, which is turn 26 for the  avatar
+Avatar 1 tries to move in direction no direction (NULL_MOVE) on turn 152, which is turn 26 for the  avatar
+Avatar 0 at (1,2) on turn 153
+Avatar 1 at (1,2) on turn 153
+Avatar 2 at (1,1) on turn 153
+Avatar 3 at (1,1) on turn 153
+Avatar 4 at (1,2) on turn 153
+Avatar 5 at (1,2) on turn 153
+Avatar 2 tries to move in direction south on turn 153, which is turn 26 for the  avatar
+Solved!  Number of avatars: 6, difficulty: 1 number of moves: 152, hash: 1155012482
+Avatar 0 at (1,2) on turn 154
+Avatar 1 at (1,2) on turn 154
+Avatar 2 at (1,1) on turn 154
+Avatar 3 at (1,2) on turn 154
+Avatar 4 at (1,2) on turn 154
+Avatar 5 at (1,2) on turn 154
+Avatar 0 at (1,2) on turn 154
+Avatar 1 at (1,2) on turn 154
+Avatar 2 at (1,1) on turn 154
+Avatar 3 at (1,2) on turn 154
+Avatar 4 at (1,2) on turn 154
+Avatar 5 at (1,2) on turn 154
+Avatar 0 at (1,2) on turn 154
+Avatar 1 at (1,2) on turn 154
+Avatar 2 at (1,1) on turn 154
+Avatar 3 at (1,2) on turn 154
+Avatar 4 at (1,2) on turn 154
+Avatar 5 at (1,2) on turn 154
+Avatar 0 at (1,2) on turn 154
+Avatar 1 at (1,2) on turn 154
+Avatar 2 at (1,1) on turn 154
+Avatar 3 at (1,2) on turn 154
+Avatar 4 at (1,2) on turn 154
+Avatar 5 at (1,2) on turn 154
